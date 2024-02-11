@@ -49,7 +49,8 @@ o  mediante script en las máquinas de la red a monitorizar.
 ## I. Equipo y roles
 ## II. Reuniones realizadas (events)
 ## III. Documentos: 
-- link al backlog del equipo  -- no olvidar compartir con mctripiana@iesgrancapitan.org --
-- Añadir (compartir en drive, link) cualquier otro documento que sea necesario
+- [Link a la documentacion](https://docs.google.com/document/d/1qQXb0eVgBkyZPXq0IlzrT801U8b9xS646KB-i7rxXiw/edit?usp=sharing)
+- [Link al exel del scrum](https://docs.google.com/spreadsheets/d/16yvoholn3Nh18hnzQ9VjBNEdocg1SQwoNi9D6oCIhoU/edit?usp=sharing)
+
            
            
